@@ -1,0 +1,2 @@
+X:\Projects\SampleGradeCompute\SampleGradeCompute\bin\Debug\SampleGradeCompute.exe.config
+X:\SystemX\SampleGradeCompute\SampleGradeCompute\bin\Debug\SampleGradeCompute.exe.config
